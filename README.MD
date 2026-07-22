@@ -2,11 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-Research-green.svg)](LICENSE)
 
-> **Isabella Schlattner, Vadim Atlassov, Azimzhan Abdrakhmanov, and Minho Lee**  
-> *Latent-Aligned Scalable Interpolant Transformer for Controllable Chest X-ray Synthesis.*  
-> IEEE Transactions on Medical Imaging, 2026.  
-> Department of Computer Science, Nazarbayev University, Astana, Kazakhstan.
-
 ---
 
 ## Abstract
