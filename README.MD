@@ -232,7 +232,7 @@ This work builds upon the following projects:
 - [Latent Diffusion Models / Stable Diffusion](https://github.com/CompVis/stable-diffusion) - Rombach et al., CVPR 2022
 - [ControlNet](https://github.com/lllyasviel/ControlNet) - Zhang et al., ICCV 2023
 - [TorchXRayVision](https://github.com/mlmed/torchxrayvision) - Cohen et al., MIDL 2022
-- [RAD-DINO](https://github.com/microsoft/rad-dino) - Perez-Garcia et al., Nature Machine Intelligence 2025
+- [RAD-DINO](https://rdcu.be/fu9nH) - Perez-Garcia et al., Nature Machine Intelligence 2025
 - [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) - Johnson et al., 2019
 
 ---
