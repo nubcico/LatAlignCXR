@@ -252,3 +252,4 @@ This project is released for research purposes only. Model checkpoints and pretr
 | Minho Lee | minho.lee@nu.edu.kz |
 
 Department of Computer Science, Nazarbayev University, Astana, Kazakhstan
+Department of Artificial Intelligence Convergence, Hallym University, Chuncheon, Republic of Korea
