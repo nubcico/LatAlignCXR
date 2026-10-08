@@ -34,7 +34,7 @@ A latent-to-spatial decoder $D_{\text{lat}}$ transforms $z$ into interpretable s
 - **Structured Latent Control Space:** Separates anatomical layout, pathology location/extent, and residual appearance into interpretable factors.
 - **Latent-to-Spatial Decoder:** A CNN upsampling network converts latent codes into spatial priors without image-dependent skip connections, allowing application to text-derived, image-derived, or manually specified latent codes.
 - **SiT-Based Generative Backbone:** Scalable Interpolant Transformer with velocity-matching in VAE latent space.
-- **Relevance-Guided Control (RelaCtrl):** Token-level relevance estimation with top-$k$ selection for focused spatial cross-attention.
+- **Relevance-Guided Control (RelaCtrl):** Token-level relevance estimation with top-k selection for focused spatial cross-attention.
 - **Severity-Conditioned Counterfactual Editing:** Modulate pathology severity while preserving patient-specific anatomy via partial-noise initialization.
 
 ---
