@@ -70,7 +70,7 @@ checkpoints/
 ├── vae/                  # VAE encoder (E_vae) & decoder (D_vae)
 ├── latent_module/        # E_img, E_text, D_lat
 ├── sit_backbone/         # SiT velocity model (v_theta)
-└── clip/                 # Frozen CLIP ViT-B/32 text encoder
+└── clip/                 # fine-tuned LongCLIP-L + single-layer MLP
 ```
 
 ---
