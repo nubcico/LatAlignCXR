@@ -248,6 +248,7 @@ This project is released for research purposes only. Model checkpoints and pretr
 | Isabella Schlattner | isabella.schlattner@nu.edu.kz |
 | Vadim Atlassov | vadim.atlassov@nu.edu.kz |
 | Azimzhan Abdrakhmanov | azimzhan.abdrakhmanov@nu.edu.kz |
+| Dong-Ok Won | dongok.won@hallym.ac.kr |
 | Minho Lee | minho.lee@nu.edu.kz |
 
 Department of Computer Science, Nazarbayev University, Astana, Kazakhstan
