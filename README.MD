@@ -1,7 +1,5 @@
 # LatAlignCXR: Latent-Aligned Scalable Interpolant Transformer for Controllable Chest X-ray Synthesis
 
-[![License](https://img.shields.io/badge/License-Research-green.svg)](LICENSE)
-
 ---
 
 ## Abstract
